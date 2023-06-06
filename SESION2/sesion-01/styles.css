@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    text-align: left;
+    padding: 12px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+nav{
+    margin: 12px;
+    width:50%;
+    display: inline-block;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Roboto+Condensed:wght@300&display=swap');
